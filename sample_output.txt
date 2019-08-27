@@ -1,0 +1,10 @@
+How many years will you be saving?
+Enter years: 1
+How much money is currently in your account
+Enter current amount in account: 10000
+How much money do you plan on inverstin monthly?
+Enter amount: 1000
+what do you estimate will be the yearly interest of this invertment?
+Enter interest in decimal numbers (10% = 0.1): 0.2
+
+This is how much money you would have in your account after 1 years: 26400.0
